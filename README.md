@@ -11,4 +11,4 @@ To work with this project
 
 -then npm start(this packs all source js files into one file in dist and opens local server)
 
--with this you are to make considerable changes into this project
+-with this you can make considerable changes into this project
